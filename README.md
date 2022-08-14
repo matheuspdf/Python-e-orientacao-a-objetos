@@ -1,2 +1,3 @@
 # Python e orientacao a objetos
- Curso de Python e orientação a objetos da ALURA
+
+Repositório criado com a finalidade de registrar o conteúdo aprendido no curso de Python e Orienteção a Objetos da ALURA.
