@@ -5,5 +5,6 @@ def jogar():
 
     print("Fim do jogo")
 
-if(__name__ == "__main__"):
+
+if __name__ == "__main__":
     jogar()
