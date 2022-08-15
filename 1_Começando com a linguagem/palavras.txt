@@ -1,0 +1,8 @@
+casa
+carro
+bicicleta
+cachorro
+aviao
+morango
+melancia
+abacaxi
