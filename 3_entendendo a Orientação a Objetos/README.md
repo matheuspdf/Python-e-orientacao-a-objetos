@@ -45,4 +45,7 @@ Assuntos abordados nesse curso:
    <li>Métodos de modifição dos atributos, 
    os setters</li>
    <li>Propriedades</li>
+6. Métodos privados e estáticos
+   <li>Métodos privados</li>
+   <li>Métodos da classe, os métodos estáticos</li>
    </ul>
