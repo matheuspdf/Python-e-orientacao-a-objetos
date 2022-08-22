@@ -6,8 +6,9 @@ Python: avançando na orientação a objetos
     <li>@property</li>
     <li>name</li>
     </ul>
+   
 2. <ul>
-<li>Herança</li>
-<li>Generalização/especialização</li>
-<li>Método super()</li>
-</ul>
+   <li>Herança</li>
+   <li>Generalização/especialização</li>
+   <li>Método super()</li>
+   </ul>
