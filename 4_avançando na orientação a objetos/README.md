@@ -12,3 +12,9 @@ Python: avançando na orientação a objetos
    <li>Generalização/especialização</li>
    <li>Método super()</li>
    </ul>
+
+3. <ul>
+   <li>Polimorfismo</li>
+   <li>Relacionamento é um</li>
+   <li>Representação textual de um objeto</li>
+   </ul>
