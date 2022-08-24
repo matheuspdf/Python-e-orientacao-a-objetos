@@ -18,3 +18,9 @@ Python: avançando na orientação a objetos
    <li>Relacionamento é um</li>
    <li>Representação textual de um objeto</li>
    </ul>
+
+4. <ul>
+   <li>Herança de um tipo built-in (nativo)</li>
+   <li>Vantagens da herança de um iterável</li>
+   <li>Desvantagem de fazer herança</li>
+   </ul>
