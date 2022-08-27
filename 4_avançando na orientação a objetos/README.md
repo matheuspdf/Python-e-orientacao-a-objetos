@@ -24,3 +24,10 @@ Python: avançando na orientação a objetos
    <li>Vantagens da herança de um iterável</li>
    <li>Desvantagem de fazer herança</li>
    </ul>
+
+5. <ul>
+   <li>Duck typing</li>
+   <li>Python data (object) model</li>
+   <li>Dunder methods</li>
+   <li>Uso de ABCs</li>
+   </ul>
