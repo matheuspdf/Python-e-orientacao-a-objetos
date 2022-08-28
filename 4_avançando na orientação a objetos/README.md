@@ -31,3 +31,9 @@ Python: avançando na orientação a objetos
    <li>Dunder methods</li>
    <li>Uso de ABCs</li>
    </ul>
+
+6. <ul>
+   <li>Herança múltipla</li>
+   <li>Resolução da ordem de chamada de métodos</li>
+   <li>Mixins</li>
+   </ul>
