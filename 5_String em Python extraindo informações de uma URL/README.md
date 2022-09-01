@@ -9,11 +9,27 @@ String em Python: extraindo informações de uma URL
 2. <ul>
     <li>Uma string é uma cadeia de caracteres onde cada caractere tem sua própria posição ou índice.
     </li>
-    <li>Podemos omitir o primeiro ou o segundo argumento do operador de fatiamento para fatiar uma string do início até um certo índice, ou a partir de um índice até o final. Exemplo: str[a:] ou str[:b].</li>
-    <li>Podemos utilizar o método str.find(palavra, inicio) para buscar o índice de palavra a partir de inicio.
-    Caso palavra não seja encontrada, o método find retorna -1.</li>
-    <li>
-    O método len(string) retorna o tamanho (ou seja, a quantidade de caracteres) da nossa string.
-    Dica: o caractere que representa espaço em branco (“ “) também conta! Por exemplo: len(" ") retorna 1.
+    <li>Podemos omitir o primeiro ou o segundo argumento do operador de fatiamento para fatiar uma string do início até um certo índice, ou a partir de um índice até o final. Exemplo: str[a:] ou str[:b].
     </li>
+    <li>Podemos utilizar o método str.find(palavra, inicio) para buscar o índice de palavra a partir de inicio.
+        Caso palavra não seja encontrada, o método find retorna -1.
+    </li>
+    <li>
+        O método len(string) retorna o tamanho (ou seja, a quantidade de caracteres) da nossa string.
+        Dica: o caractere que representa espaço em branco (“ “) também conta! Por exemplo: len(" ") retorna 1.
+    </li>
+    </ul>
+   
+3. <ul>
+    <li>
+    Aplicando OO no projeto
+    </li>
+    </ul>
+    
+4. <ul>
+<li>
+RegEx (expressões regulares)
+</li>
+
+
 </ul>

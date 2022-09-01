@@ -1,4 +1,4 @@
-"""Salva a url em um atributo do objeto (self.url = url) e verifica se a url é válida"""
+"""Salva a url num atributo do objeto (self.url = url) e verifica se a url é válida"""
 
 
 class ExtratorURL:
