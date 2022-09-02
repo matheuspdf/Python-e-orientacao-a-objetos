@@ -27,9 +27,19 @@ String em Python: extraindo informações de uma URL
     </ul>
     
 4. <ul>
-<li>
-RegEx (expressões regulares)
-</li>
-
-
+      <li>
+      Como construir e utilizar expressões regulares, ou RegEx utilizando o módulo re do Python.
+      </li>
+      <li>
+      Qual a diferença entre search e match.
+      </li>
+      <li>
+      O que são quantificadores e intervalos em RegEx.
+      </li>
+      <li>
+      A diferença entre parênteses (..) colchetes [...] na construção de padrões.
+      </li>
+      <li>
+      Como utilizar expressões regulares para fazer validações complexas.
+      </li>
 </ul>

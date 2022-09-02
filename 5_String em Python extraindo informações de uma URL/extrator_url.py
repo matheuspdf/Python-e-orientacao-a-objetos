@@ -1,4 +1,5 @@
 """Salva a url num atributo do objeto (self.url = url) e verifica se a url é válida"""
+import re
 
 
 class ExtratorURL:
@@ -17,6 +18,13 @@ class ExtratorURL:
     def valida_url(self):
         if not self.url:
             raise ValueError("A URL está vazia")
+
+        padrao_url = re.compile('(http(s)?://)?(www.)?bytebank.com(.br)?/cambio')
+        match = padrao_url.match(url)
+        if not match:
+            raise ValueError('A URL não é válida')
+
+
 
     # """Retorna a base da url."""
     def get_url_base(self):
