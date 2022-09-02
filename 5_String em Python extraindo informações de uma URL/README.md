@@ -5,7 +5,7 @@ String em Python: extraindo informações de uma URL
     <li> O operador de fatiamento [a:b], utilizado para obter uma substring desde o índice a até o índice b - 1 da string original. Lembrando que b - 1 pois o segundo argumento do fatiamento é exclusivo.</li>
     <li> A string original não é alterada ao ser fatiada devido à sua imutabilidade.</li>
    </ul>
-
+<br>
 2. <ul>
     <li>Uma string é uma cadeia de caracteres onde cada caractere tem sua própria posição ou índice.
     </li>
@@ -19,13 +19,13 @@ String em Python: extraindo informações de uma URL
         Dica: o caractere que representa espaço em branco (“ “) também conta! Por exemplo: len(" ") retorna 1.
     </li>
     </ul>
-   
+   <br>
 3. <ul>
     <li>
     Aplicando OO no projeto
     </li>
     </ul>
-    
+    <br>
 4. <ul>
       <li>
       Como construir e utilizar expressões regulares, ou RegEx utilizando o módulo re do Python.
@@ -43,3 +43,4 @@ String em Python: extraindo informações de uma URL
       Como utilizar expressões regulares para fazer validações complexas.
       </li>
 </ul>
+<br>
