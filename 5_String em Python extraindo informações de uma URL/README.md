@@ -6,6 +6,7 @@ String em Python: extraindo informações de uma URL
     <li> A string original não é alterada ao ser fatiada devido à sua imutabilidade.</li>
    </ul>
 <br>
+
 2. <ul>
     <li>Uma string é uma cadeia de caracteres onde cada caractere tem sua própria posição ou índice.
     </li>
@@ -20,12 +21,14 @@ String em Python: extraindo informações de uma URL
     </li>
     </ul>
    <br>
+   
 3. <ul>
     <li>
     Aplicando OO no projeto
     </li>
     </ul>
     <br>
+   
 4. <ul>
       <li>
       Como construir e utilizar expressões regulares, ou RegEx utilizando o módulo re do Python.
@@ -44,3 +47,15 @@ String em Python: extraindo informações de uma URL
       </li>
 </ul>
 <br>
+
+5. <ul>
+   <li>
+   Métodos especiais são chamados pelo próprio interpretador Python de acordo com alguma instrução.
+   </li>
+   <li>
+   Como implementar métodos especiais em nossas classes para criar comportamentos customizados.
+   </li>
+   <li>
+   A diferença entre igualdade (==) e identidade (is).
+   </li>
+</ul>
