@@ -17,8 +17,9 @@
     <li>Criar uma função e deixar um valor padrão;</li>
     <li>Quais são os problemas da mutabilidade.</li>
     </ul>
-   
-2.  Tuplas
+   <br>
+2. Tuplas
+
    <ul> 
    <li> 
    Criar uma classe e métodos;
@@ -42,66 +43,72 @@
    Fazer uma lista de tuplas.
    </li>
    </ul>
+<br>
 
 3. Polimorfismo e arrays
-<ul>
-<li>Conceito de herança e polimorfismo;
-</li>
-<li>Herdar classe;
-</li>
-<li>O que é o duck typing;
-</li>
-<li>Fazer um array no Python;
-</li>
-<li>Fazer anotações.
-</li>
-</ul>
+   <ul>
+   <li>Conceito de herança e polimorfismo;
+   </li>
+   <li>Herdar classe;
+   </li>
+   <li>O que é o duck typing;
+   </li>
+   <li>Fazer um array no Python;
+   </li>
+   <li>Fazer anotações.
+   </li>
+   </ul>
+<br>
 
 4. Igualdade
-<ul>
-<li>Utilizar o __eq__;
-</li>
-<li>Utilizar boas práticas para comparação ;
-</li>
-<li>Usar o isinstance para verificar se uma instância de um objeto;
-</li>
-</ul>
+      <ul>
+      <li>Utilizar o __eq__;
+      </li>
+      <li>Utilizar boas práticas para comparação ;
+      </li>
+      <li>Usar o isinstance para verificar se uma instância de um objeto;
+      </li>
+      </ul>
+<br>
 
 5. Outros builtins
-<ul>
-<li>O que são enumerated;
-</li>
-<li>Como funciona a função range;
-</li>
-<li>Desempacotar tuplas;
-</li>
-<li>Utilizar a função len.
-</li>
-</ul>
+   <ul>
+   <li>O que são enumerated;
+   </li>
+   <li>Como funciona a função range;
+   </li>
+   <li>Desempacotar tuplas;
+   </li>
+   <li>Utilizar a função len.
+   </li>
+   </ul>
+<br>
 
 6. Ordem natural
-<ul>
-<li>Utilizar a função sorted para fazer a ordenação sem mudar o conteúdo na lista original;
-</li>
-<li>Usar a função sort para ordenar atribuindo e mudando a lista original;
-</li>
-<li>Utilizar a função reversed que ordena do maior para o menor sem alterar a lista original.
-</li>
-</ul>
+   <ul>
+   <li>Utilizar a função sorted para fazer a ordenação sem mudar o conteúdo na lista original;
+   </li>
+   <li>Usar a função sort para ordenar atribuindo e mudando a lista original;
+   </li>
+   <li>Utilizar a função reversed que ordena do maior para o menor sem alterar a lista original.
+   </li>
+   </ul>
+   
+   <br>
 
 7. Ordenação customizada
 
-<ul>
-<li>O que é ordem natural;
-</li>
-<li>Ordenar e comparar objetos;
-</li>
-<li>Utilizar o attrgetter
-</li>
-<li>Usar o __lt__: menor que (less than) para comparações;
-</li>
-</ul>
-
+   <ul>
+   <li>O que é ordem natural;
+   </li>
+   <li>Ordenar e comparar objetos;
+   </li>
+   <li>Utilizar o attrgetter
+   </li>
+   <li>Usar o __lt__: menor que (less than) para comparações;
+   </li>
+   </ul>
+<br>
 
 8. Ordenação total
    
