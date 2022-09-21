@@ -1,6 +1,7 @@
-from validate_docbr import CPF
+from cpf import Cpf
+
+cpf_um = Cpf("386875888799")
 
 
 
-cpf = CPF()
-
+print(cpf_um)

@@ -1,14 +1,15 @@
 from validate_docbr import CPF
 
+
 class Cpf:
-    def __int__(self, documento):
+    def __init__(self, documento):
         documento = str(documento)
         if self.cpf_valido(documento):
             self.cpf = documento
         else:
             raise ValueError("CPF inválido!")
 
-    def cpf_valido(self, documento):
+    def cpf_valido(self, cpf):
         if len(cpf) == 11:
             validador = CPF()
             return validador.validate(cpf)
@@ -21,4 +22,3 @@ class Cpf:
 
     def __str__(self):
         return self.format_cpf()
-
