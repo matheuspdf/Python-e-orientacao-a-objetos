@@ -15,3 +15,13 @@
    <li>Como e quando implementar uma Factory em nosso código.</li>
    </ul>
 <br>
+
+3. Validando telefones com expressões regulares
+
+   <ul> 
+   <li>O que são expressões regulares;</li>
+   <li>Como construir padrões e encontra-los dentro de textos;</li>
+   <li>Como validar com expressões regulares;</li>
+   <li>Como criar máscaras com expressões regulares.</li>
+   </ul>
+<br>

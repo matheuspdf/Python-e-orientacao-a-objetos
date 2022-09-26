@@ -1,5 +1,8 @@
-from cpf import Cpf
+from Telefones import Telefone
+import re
 
-cpf_um = Cpf("386875888799")
+telefone = "551087651234"
 
-print(cpf_um)
+telefone_obj = Telefone(telefone)
+
+print(telefone_obj)

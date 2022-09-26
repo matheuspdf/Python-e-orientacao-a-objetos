@@ -7,7 +7,7 @@ class Documento:
     def cria_documento(documento):
         if len(documento) == 11:
             return DocCpf(documento)
-        elif len (documento) == 14:
+        elif len(documento) == 14:
             return DocCnpj(documento)
         else:
             raise ValueError("Quantidade de dígitos está incorreta")
@@ -18,7 +18,7 @@ class DocCpf:
         if self.valida(documento):
             self.cpf = documento
         else:
-            raise ValueError('CPF inválido!')
+            raise ValueError("CPF inválido!")
 
     def __str__(self):
         return self.format()
@@ -49,4 +49,3 @@ class DocCnpj:
     def format(self):
         mascara = CNPJ()
         return mascara.mask(self.cnpj)
-
