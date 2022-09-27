@@ -1,8 +1,6 @@
-from Telefones import Telefone
-import re
+from datetime import datetime, timedelta
+from datas import Datas
 
-telefone = "551087651234"
 
-telefone_obj = Telefone(telefone)
-
-print(telefone_obj)
+cadastro = Datas()
+print(cadastro.mes_cadastro())
