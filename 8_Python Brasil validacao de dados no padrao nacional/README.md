@@ -25,3 +25,22 @@
    <li>Como criar máscaras com expressões regulares.</li>
    </ul>
 <br>
+
+4. Manipulando e formatando datas
+
+   <ul> 
+   <li>Como trabalhar com datas e horas no Python;</li>
+   <li>Métodos da classe datetime;</li>
+   <li>Para que serve o timedelta() e como utilizá-lo.</li>
+   </ul>
+<br>
+
+5. Trabalhando com CEP e acessando uma API
+
+   <ul> 
+   <li>O que são requisições HTTP;</li>
+   <li>Para que serve e como acessar uma API;</li>
+   <li>Como utilizar a biblioteca requests do Python;</li>
+   <li>Acessar a API do ViaCEP e retornar informações do endereço a partir do CEP.</li>
+   </ul>
+<br>
